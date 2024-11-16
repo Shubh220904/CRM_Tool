@@ -14,7 +14,7 @@ To get started with Adopet, follow these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/Shubh220904/CRM-Tool.git
+git clone https://github.com/Shubh220904/CRM_Tool.git
 ```
 
 ## Setup Environment Variables
